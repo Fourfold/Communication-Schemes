@@ -1,2 +1,2 @@
 # Communication-Schemes
-This research studies different analog and digital communications modulation techniques. It includes an implementation for AM, FM, PCM, BASK, and QPSK using MATLAB while analysing each technique according to different metrics.
+This research studies different analog and digital communications modulation techniques. It includes an implementation for AM, FM, PCM, BASK, and QPSK using MATLAB while analysing each technique according to different metrics. These modulation techniques are tested on tones and audio files. The repository includes more scripts like BPSK and testing BASK and BPSK on images, but these were not included in the report.
